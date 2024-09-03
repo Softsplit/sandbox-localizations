@@ -1,7 +1,7 @@
 # Sandbox Classic - Localizations
 Localizations for Sandbox Classic.
 
-## Credits
+### Credits
 * DiskGG - 🇨🇿
 * boxden - 🇷🇺
 * ibrs_4ever - 🇨🇳
