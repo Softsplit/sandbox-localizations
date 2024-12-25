@@ -1,5 +1,5 @@
-# Sandbox Classic - Localizations
-Localizations for Sandbox Classic.
+# Sandbox++ & Sandbox Classic - Localizations
+Localizations for Sandbox++ and Sandbox Classic.
 
 ### Credits
 * DiskGG - 🇨🇿
