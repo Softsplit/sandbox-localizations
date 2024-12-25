@@ -1,4 +1,4 @@
-# Sandbox++ & Sandbox Classic - Localizations
+# Sandbox ― Localizations
 Localizations for Sandbox++ and Sandbox Classic.
 
 ### Credits
