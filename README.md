@@ -13,3 +13,4 @@ Localizations for Sandbox++ and Sandbox Classic.
 * TrackZone1 - 🇫🇷
 * diegosace2000 - 🇪🇸
 * Primary-1 - 🇰🇷
+* deltamolfar - 🇺🇦
