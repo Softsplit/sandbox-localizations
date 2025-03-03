@@ -7,7 +7,6 @@ Localizations for Sandbox++ and Sandbox Classic.
 * ibrs_4ever - 🇨🇳
 * Evilblue210 - 🇹🇼
 * ML5700 - 🇩🇪
-* arad - 🇮🇷
 * NovaDiablox - 🇹🇷
 * Lokiv - 🇸🇪
 * TrackZone1 - 🇫🇷
